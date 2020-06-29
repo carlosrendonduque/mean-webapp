@@ -119,6 +119,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "mean-webapp"
+    }
+  },
+  "defaultProject": "mean-webapp",
+  "cli": {
+    "analytics": "f672f12f-3fdf-4d91-b37a-6b8638d42e86"
+  }
 }
